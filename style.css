@@ -438,8 +438,60 @@ background-color: rgb(38, 26, 13);
   /* background-color: #67595E; */
 /* } */ 
 
-.hero-section-2{
+.space{
+  height: 50px;
+  width: 100%;
+  border: 3px solid rgb(73, 54, 40);
+  position: absolute;
+  background-color: #ffe6cc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 23px;
+  color: rgb(30, 32, 30);
+}
+
+.hero-section2{
   height: 600px;
-  width: 50%;
+  width: 100%;
   border: 2px solid rgb(0, 0, 0);
+  display: flex;
+  margin-top: 50px;
+
+}
+
+.box201{
+  height: 560px;
+  width: 50%;
+  /* border: 2px solid rgb(26, 215, 200); */
+  background-color: #ffcc99;
+  font-size: 50px;
+  font-weight: 600;
+  color: rgb(75, 53, 42);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+
+.box202{
+  height: 560px;
+  width: 60%;
+  /* border: 2px solid rgb(215, 190, 26); */
+  background-color: #1a0d00;
+  /* background-image: url(images/photo.png); */
+  color: #ffdab3;
+
+}
+
+.box203{
+  height: 560px;
+  width: 40%;
+  /* border: 2px solid rgb(73, 26, 215); */
+  background-color: #1a0d00;
+  background-image: url(images/aesthetic.png);
+  
+
 }
