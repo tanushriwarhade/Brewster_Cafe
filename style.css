@@ -538,11 +538,18 @@ background-color: rgb(38, 26, 13);
 
 }
 
+.background{
+  height: 430px ;
+  width: 99% ;
+  background-color : #dfbf9f;
+}
+
 .section3{
-  height: 400px;
+  height: 430px;
   width: 35%;
-  border: 2px solid olivedrab;
+  /* border: 2px solid olivedrab; */
   background-color: #fff2e6;
-  background-image: url(images/hand.png);
+  background-image: url(images/coffee-sack.png);
   margin-left: 1000px;
+  border-left: 2px solid #1a0d00 ;
 }
