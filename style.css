@@ -111,6 +111,33 @@
   text-align: center;
 
 }
+
+.box88:hover {
+  /* font-size: 17px; */
+  cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1.5s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
 .box89{
   /* border: 2px solid red; */
   background-color: rgb(38, 26, 13);
@@ -123,6 +150,34 @@
   text-align: center;
 
 }
+
+.box89:hover {
+  /* font-size: 17px; */
+  cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1.5s infinite alternate;
+}
+
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
 .box810{
   /* border: 2px solid red; */
   background-color: rgb(38, 26, 13);
@@ -135,6 +190,34 @@
   text-align: center;
 
 }
+
+.box810:hover {
+  /* font-size: 17px; */
+  cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1.5s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
+
 .box811{
   /* border: 2px solid red; */
   background-color: rgb(38, 26, 13);
@@ -147,6 +230,33 @@
   text-align: center;
 
 }
+
+.box811:hover {
+  /* font-size: 17px; */
+  cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1.5s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
 
 .box812{
   /* height: 50px;
@@ -169,6 +279,33 @@
   text-align: center;
 }
 
+.box812:hover {
+  /* font-size: 17px; */
+  cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1.5s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
+
 .box813{
   /* height: 50px;
   width: 30%;
@@ -185,6 +322,33 @@ background-color: rgb(38, 26, 13);
   align-items: center;
   text-align: center;
 }
+
+.box813:hover {
+  /* font-size: 17px; */
+  cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1.5s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
 
 .box814{
   /* height: 50px;
@@ -203,7 +367,31 @@ background-color: rgb(38, 26, 13);
   text-align: center;
 }
 
+.box814:hover {
+  /* font-size: 17px; */
+  cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1.5s infinite alternate;
+}
 
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
 
 
 .nav-logo img {
@@ -528,6 +716,33 @@ background-color: rgb(38, 26, 13);
   
 }
 
+.explore-more:hover{
+  /* border: 3px solid burlywood; */
+cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
+
 .box203{
   height: 560px;
   width: 40%;
@@ -540,8 +755,10 @@ background-color: rgb(38, 26, 13);
 
 .background{
   height: 430px ;
-  width: 99% ;
+  width: 98% ;
   background-color : #dfbf9f;
+  gap: 50px;
+  background-size: auto;
 }
 
 /* .section3{
@@ -555,30 +772,143 @@ background-color: rgb(38, 26, 13);
 /* }  */
 
 .coffee1{
+  position: relative;
     height: 350px;
-    width: 25%;
-    border: 2px solid green;
-    background-image: url(images/coffee1.webp);
+    width: 18%;
+    border: 3px solid #995c00;
+    background-image: url(images/coffee-splashing-white-cup-7109077.webp);
     display: flex;
     background-size: contain;
+    border-radius: 7px;
     /* background-position: center; */
 
 }
 
+/* .coffee1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;        
+    border-radius: 5px;
+} */
+
+.coffee1 .icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.coffee1 .icon:hover {
+  color: #995c00;
+  font-size: 22px;
+  
+}
+
 .coffee2{
-    height: 410px;
-    width: 30%;
-    border: 2px solid rgb(68, 29, 94);
+    position: relative;
+    height: 350px;
+    width: 18%;
+    border: 3px solid #995c00;
+    background-image: url(images/coffee2.jpg);
+    display: flex;
+    background-size: contain;
+    border-radius: 7px;
+}
+
+
+.coffee2 .icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.coffee2 .icon:hover {
+  color: #995c00;
+  font-size: 22px;
 }
 
 .coffee3{
-    height: 410px;
-    width: 30%;
-    border: 2px solid rgb(115, 128, 0);
+    position: relative;
+    height: 350px;
+    width: 18%;
+    border: 3px solid #995c00;
+    background-image: url(images/coffee3.jpg);
+    display: flex;
+    background-size: contain;
+    border-radius: 7px;
+}
+
+
+
+.coffee3 .icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.coffee3 .icon:hover {
+  color: #995c00;
+  font-size: 22px;
 }
 
 .coffee4{
-    height: 410px;
-    width: 30%;
-    border: 2px solid rgb(26, 0, 128);
+    position: relative;
+    height: 350px;
+    width: 18%;
+    border: 3px solid #995c00;
+    background-image: url(images/coffee4.jpg);
+    display: flex;
+    background-size: contain;
+    border-radius: 7px;
 }
+
+.coffee4 .icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.coffee4 .icon:hover {
+  color: #995c00;
+  font-size: 22px;
+}
+
+.coffee5{
+    position: relative;
+    height: 350px;
+    width: 18%;
+    border: 3px solid #995c00;
+    background-image: url(images/coffee5.jpg);
+    display: flex;
+    background-size: contain;
+    border-radius: 7px;
+}
+
+.coffee5 .icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.coffee5 .icon:hover {
+  color: #995c00;
+  font-size: 22px;
+}
+
+/* .coffee6{
+    height: 350px;
+    width: 25%;
+    border: 2px solid rgb(26, 0, 128);
+    background-image: url(images/coffee6.jpg);
+    display: flex;
+    background-size: contain;
+} */
