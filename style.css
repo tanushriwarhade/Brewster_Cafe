@@ -904,11 +904,203 @@ cursor: pointer;
   font-size: 22px;
 }
 
-/* .coffee6{
-    height: 350px;
-    width: 25%;
-    border: 2px solid rgb(26, 0, 128);
-    background-image: url(images/coffee6.jpg);
-    display: flex;
-    background-size: contain;
-} */
+.name-section{
+  height: 130px;
+  width: 98%;
+  display: flex;
+  gap: 38px;
+  background-color: #331f00;
+  justify-content: center;
+  align-items: center; 
+}
+
+.section-coffee1{
+  height: 90px;
+  width: 18%;
+  border: 2px solid #995c00;
+  background-color: #dfbf9f;
+  color: #1a0d00;
+  border-radius: 15px;
+}
+
+.section-coffee1:hover{
+  /* border: 3px solid burlywood; */
+cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         
+      0 0 8px #b08968,         
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
+.section-coffee2{
+  height: 90px;
+  width: 18%;
+  border: 2px solid #995c00;
+  background-color: #dfbf9f;
+  color: #1a0d00;
+  border-radius: 15px;
+}
+
+.section-coffee2:hover{
+  /* border: 3px solid burlywood; */
+cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,        
+      0 0 8px #b08968,         
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
+.section-coffee3{
+  height: 90px;
+  width: 18%;
+  border: 2px solid #995c00;
+  background-color: #dfbf9f;
+  color: #1a0d00;
+  border-radius: 15px;
+}
+
+.section-coffee3:hover{
+  /* border: 3px solid burlywood; */
+cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
+.section-coffee4{
+  height: 90px;
+  width: 18%;
+  border: 2px solid #995c00;
+  background-color: #dfbf9f;
+  color: #1a0d00;
+  border-radius: 15px;
+}
+
+.section-coffee4:hover{
+  /* border: 3px solid burlywood; */
+cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
+.section-coffee5{
+  height: 90px;
+  width: 18%;
+  border: 2px solid #995c00;
+  background-color: #dfbf9f;
+  color: #1a0d00;
+  border-radius: 15px;
+}
+
+.section-coffee5:hover{
+  /* border: 3px solid burlywood; */
+cursor: pointer;
+  /* border: 0px solid #ffebcc; */
+   /* box-shadow: 0 0 15px #ffcc99; */
+   animation: pulseGlow 1s infinite alternate;
+}
+
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 
+      0 0 4px #d3bfa5,         /* soft beige */
+      0 0 8px #b08968,         /* soft brown */
+      inset 0 0 4px #d3bfa5,
+      inset 0 0 8px #b08968;
+  }
+
+  100% {
+    box-shadow:
+      0 0 10px #d3bfa5,
+      0 0 18px #b08968,
+      inset 0 0 10px #d3bfa5,
+      inset 0 0 18px #b08968;
+  }
+}
+
+.panel-hero{
+  height: 350px;
+  width: 98%;
+  overflow: hidden;
+  border: 3px solid #331f00;
+  color: #ffdab3;
+}
+
+.panel-hero img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  color: #ffd9b3;
+}
