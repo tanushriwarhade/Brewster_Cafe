@@ -490,7 +490,7 @@ background-color: rgb(38, 26, 13);
   color: #ffdab3;
   font-size: 40px;
   font-weight: 500;
-  margin-left: ;
+  /* margin-left: ; */
 
 }
 
@@ -544,12 +544,41 @@ background-color: rgb(38, 26, 13);
   background-color : #dfbf9f;
 }
 
-.section3{
+/* .section3{
   height: 430px;
   width: 35%;
   /* border: 2px solid olivedrab; */
-  background-color: #fff2e6;
-  background-image: url(images/coffee-sack.png);
-  margin-left: 1000px;
-  border-left: 2px solid #1a0d00 ;
+  /* background-color: #fff2e6; */
+  /* background-image: url(images/coffee-sack.png); */
+  /* margin-left: 1000px; */
+  /* border-left: 2px solid #1a0d00 ; */
+/* }  */
+
+.coffee1{
+    height: 350px;
+    width: 25%;
+    border: 2px solid green;
+    background-image: url(images/coffee1.webp);
+    display: flex;
+    background-size: contain;
+    /* background-position: center; */
+
+}
+
+.coffee2{
+    height: 410px;
+    width: 30%;
+    border: 2px solid rgb(68, 29, 94);
+}
+
+.coffee3{
+    height: 410px;
+    width: 30%;
+    border: 2px solid rgb(115, 128, 0);
+}
+
+.coffee4{
+    height: 410px;
+    width: 30%;
+    border: 2px solid rgb(26, 0, 128);
 }
